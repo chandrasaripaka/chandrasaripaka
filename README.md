@@ -55,9 +55,9 @@ Private repos — details are confidential, shown here for scope and activity on
 
 | Project | Description | Stack | Stars | Commits |
 |---|---|---|---|---|
-| [StockSage](https://github.com/chandrasaripaka/StockSage) | Stock analysis tooling | Python | ⭐ 2 | 75 |
-| [neurodynamicbrain](https://github.com/chandrasaripaka/neurodynamicbrain) | Portable cross-agent memory brain for Claude/AI agents | — | ⭐ 4 | 4 |
-| [LLMRouter](https://github.com/chandrasaripaka/LLMRouter) | LLM request routing | TypeScript | ⭐ 1 | 18 |
+| [StockSage](https://github.com/chandrasaripaka/StockSage) | Stock analysis tooling | Python | ⭐ 3 | 75 |
+| [neurodynamicbrain](https://github.com/chandrasaripaka/neurodynamicbrain) | Portable cross-agent memory brain for Claude/AI agents | — | ⭐ 23 | 4 |
+| [LLMRouter](https://github.com/chandrasaripaka/LLMRouter) | LLM request routing | TypeScript | ⭐ 2 | 18 |
 | [debt4loop](https://github.com/chandrasaripaka/debt4loop) | Full-stack web app | TypeScript | — | 17 |
 | [ai-portfolio](https://github.com/chandrasaripaka/ai-portfolio) | Portfolio site | TypeScript | — | 3 |
 | [netscapy](https://github.com/chandrasaripaka/netscapy) | Network keyword detector tool | Python | — | 2 |
@@ -91,7 +91,7 @@ Private repos — details are confidential, shown here for scope and activity on
 | — commits in private repos | 1,009 (15 repos) |
 | — commits in public repos | 133 (16 repos) |
 | Open pull requests raised (owned repos) | 20 |
-| Total stars earned | 7 |
+| Total stars earned | 31 |
 | Busiest repo by commits | `supergame-meme` — 509 commits |
 | Most active month | July 2026 (Hygieia + streamhubpro active development) |
 | Primary language by volume | TypeScript, Python, HTML |
