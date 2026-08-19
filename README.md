@@ -56,7 +56,7 @@ Private repos — details are confidential, shown here for scope and activity on
 | Project | Description | Stack | Stars | Commits |
 |---|---|---|---|---|
 | [StockSage](https://github.com/chandrasaripaka/StockSage) | Stock analysis tooling | Python | ⭐ 3 | 75 |
-| [neurodynamicbrain](https://github.com/chandrasaripaka/neurodynamicbrain) | Portable cross-agent memory brain for Claude/AI agents | — | ⭐ 23 | 4 |
+| [neurodynamicbrain](https://github.com/chandrasaripaka/neurodynamicbrain) | Portable cross-agent memory brain for Claude/AI agents | — | ⭐ 25 | 4 |
 | [LLMRouter](https://github.com/chandrasaripaka/LLMRouter) | LLM request routing | TypeScript | ⭐ 2 | 18 |
 | [debt4loop](https://github.com/chandrasaripaka/debt4loop) | Full-stack web app | TypeScript | — | 17 |
 | [ai-portfolio](https://github.com/chandrasaripaka/ai-portfolio) | Portfolio site | TypeScript | — | 3 |
@@ -71,13 +71,14 @@ Private repos — details are confidential, shown here for scope and activity on
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chandrasaripaka&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasaripaka&layout=compact&hide_border=true&langs_count=8" />
+  <img src="https://streak-stats.demolab.com/?user=chandrasaripaka&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrasaripaka&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrasaripaka&hide_border=true&area=true&radius=8" alt="Contribution activity graph" />
 </p>
+
+<sub>Note: the classic <code>github-readme-stats</code> stats / top-language cards were removed — the shared public instance is persistently rate-limited (HTTP&nbsp;503) and rendered as broken images. The streak and activity-graph cards above render reliably, and the exact figures live in the table below. To restore the classic cards, self-host <code>github-readme-stats</code> on your own Vercel with a personal access token.</sub>
 
 ### 🔬 Deep Commit Statistics
 
@@ -91,7 +92,7 @@ Private repos — details are confidential, shown here for scope and activity on
 | — commits in private repos | 1,009 (15 repos) |
 | — commits in public repos | 133 (16 repos) |
 | Open pull requests raised (owned repos) | 20 |
-| Total stars earned | 31 |
+| Total stars earned | 33 |
 | Busiest repo by commits | `supergame-meme` — 509 commits |
 | Most active month | July 2026 (Hygieia + streamhubpro active development) |
 | Primary language by volume | TypeScript, Python, HTML |
