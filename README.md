@@ -15,7 +15,7 @@
 - 🧠 Building portable AI-agent infrastructure (**NeuroDynamicBrain**) — a single memory/context brain adaptable across Claude/agent sessions.
 - 💹 Shipping side projects across fintech (**StockSage**), LLM infra (**LLMRouter**), and full-stack web products.
 - 🛠️ Comfortable across Python, TypeScript/React, Go, Rust, Swift/Kotlin (mobile), and infra/CI.
-- 📈 70 repositories on this account (55 public · 15 private), spanning 2013–present.
+- 📈 74 repositories (57 public · 17 private · 39 forks), spanning 2013–present.
 
 ### 🧰 Tech Stack
 
@@ -82,22 +82,21 @@ Private repos — details are confidential, shown here for scope and activity on
 
 ### 🔬 Deep Commit Statistics
 
-<sub>Computed directly from each owned repo's default-branch history via the GitHub GraphQL API (more accurate than the public contribution graph, which only reflects commits made with a GitHub-verified email).</sub>
+<sub>Computed 2026-08-19 from each owned <b>non-fork</b> repo's default-branch history via the GitHub GraphQL API — more accurate than the public contribution graph (which only counts commits made with a GitHub-verified email). Forks are excluded on purpose: counting their upstream history (e.g. `matsim` alone carries ~39k commits) would wildly overstate the numbers.</sub>
 
 | Metric | Value |
 |---|---|
-| Total repositories | 70 (55 public · 15 private · 39 forks) |
-| Original (non-fork) repositories | 31 |
-| **Total commits across owned repos** | **1,142** |
-| — commits in private repos | 1,009 (15 repos) |
-| — commits in public repos | 133 (16 repos) |
-| Open pull requests raised (owned repos) | 20 |
-| Total stars earned | 33 |
+| Total repositories | 74 (57 public · 17 private · 39 forks) |
+| Original (non-fork) repositories | 35 |
+| **Total commits across owned repos** | **1,309** |
+| — commits in private repos | 1,128 (17 repos) |
+| — commits in public repos | 181 (18 repos) |
+| Pull requests authored | 58 (48 merged · 8 open) |
+| Total stars earned | 34 |
 | Busiest repo by commits | `supergame-meme` — 509 commits |
-| Most active month | July 2026 (Hygieia + streamhubpro active development) |
-| Primary language by volume | TypeScript, Python, HTML |
-| Account age | 12+ years (since 2013) |
-
+| Primary language by commit volume | TypeScript (~1,027 commits), then Python · HTML · JavaScript |
+| Top languages by repo count | TypeScript · JavaScript · Python · Java |
+| Account age | 12+ years (since March 2013) |
 ---
 
 ### 📬 Connect
