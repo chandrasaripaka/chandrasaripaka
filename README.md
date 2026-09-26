@@ -98,10 +98,10 @@ Private repos — details are confidential, shown here for scope and activity on
 |---|---|
 | Total repositories | 75 (57 public · 18 private · 39 forks) |
 | Original (non-fork) repositories | 36 |
-| **Total commits across owned repos** | **1400** |
+| **Total commits across owned repos** | **1402** |
 | — commits in private repos | 1217 (18 repos) |
-| — commits in public repos | 183 (18 repos) |
-| Pull requests authored | 84 (78 merged · 3 open) |
+| — commits in public repos | 185 (18 repos) |
+| Pull requests authored | 84 (79 merged · 2 open) |
 | Total stars earned | 34 |
 | Busiest repo by commits | `supergame-meme` — 509 commits |
 | Primary language by code volume | Jupyter Notebook (bytes-weighted across owned non-fork repos) |
