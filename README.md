@@ -15,7 +15,9 @@
 - 🧠 Building portable AI-agent infrastructure (**NeuroDynamicBrain**) — a single memory/context brain adaptable across Claude/agent sessions.
 - 💹 Shipping side projects across fintech (**StockSage**), LLM infra (**LLMRouter**), and full-stack web products.
 - 🛠️ Comfortable across Python, TypeScript/React, Go, Rust, Swift/Kotlin (mobile), and infra/CI.
-- 📈 74 repositories (57 public · 17 private · 39 forks), spanning 2013–present.
+<!-- AUTO:REPO-SUMMARY:START -->
+- 📈 75 repositories (57 public · 18 private · 39 forks), spanning 2013–present.
+<!-- AUTO:REPO-SUMMARY:END -->
 
 ### 🧰 Tech Stack
 
@@ -40,31 +42,36 @@
 
 Private repos — details are confidential, shown here for scope and activity only.
 
+<!-- AUTO:FEATURED-TABLE:START -->
 | Project | Stack | Commits | Last Active |
 |---|---|---|---|
-| **Hygieia** (`rppg-multimodal-clean-repo`) — AI-native health OS: rPPG vitals, AI companion, mobile | Python · TypeScript · Swift/Kotlin | 86 | Jul 2026 |
-| `supergame-meme` | TypeScript | 509 | Feb 2026 |
-| `kikk` | TypeScript | 132 | May 2026 |
-| `critico-website` | TypeScript | 135 | Sep 2025 |
-| `my-professional-architect` | TypeScript | 42 | Jun 2026 |
-| `WorkSlackAI` | TypeScript · JS | 41 | Apr 2025 |
-| `streamhubpro` | TypeScript · Go · Rust | 27 | Jul 2026 |
-| `JiyaSite` | TypeScript | 21 | Nov 2025 |
+| **Hygieia** (`rppg-multimodal-clean-repo`) — AI-native health OS: rPPG vitals, AI companion, mobile | Python · TypeScript · Swift/Kotlin | 100 | 2026-09 |
+| `supergame-meme` | TypeScript | 509 | 2026-02 |
+| `kikk` | TypeScript | 132 | 2026-05 |
+| `critico-website` | TypeScript | 135 | 2025-09 |
+| `my-professional-architect` | TypeScript | 49 | 2026-08 |
+| `WorkSlackAI` | TypeScript · JS | 41 | 2025-04 |
+| `streamhubpro` | TypeScript · Go · Rust | 130 | 2026-08 |
+| `JiyaSite` | TypeScript | 21 | 2025-11 |
+| **Entergram** — persistent engineering memory / MCP server for AI coding agents | TypeScript · Node | 34 | 2026-09 |
+<!-- AUTO:FEATURED-TABLE:END -->
 
 ### 🌱 Open Source
 
+<!-- AUTO:OPENSOURCE-TABLE:START -->
 | Project | Description | Stack | Stars | Commits |
 |---|---|---|---|---|
-| [StockSage](https://github.com/chandrasaripaka/StockSage) | Stock analysis tooling | Python | ⭐ 3 | 75 |
-| [neurodynamicbrain](https://github.com/chandrasaripaka/neurodynamicbrain) | Portable cross-agent memory brain for Claude/AI agents | — | ⭐ 25 | 4 |
-| [LLMRouter](https://github.com/chandrasaripaka/LLMRouter) | LLM request routing | TypeScript | ⭐ 2 | 18 |
-| [debt4loop](https://github.com/chandrasaripaka/debt4loop) | Full-stack web app | TypeScript | — | 17 |
-| [ai-portfolio](https://github.com/chandrasaripaka/ai-portfolio) | Portfolio site | TypeScript | — | 3 |
-| [netscapy](https://github.com/chandrasaripaka/netscapy) | Network keyword detector tool | Python | — | 2 |
-| [angular-sample](https://github.com/chandrasaripaka/angular-sample) | Angular sample app | TypeScript | — | 3 |
-| [InterviewBuddies](https://github.com/chandrasaripaka/InterviewBuddies) | Interview prep tool | Java | — | 2 |
+| [StockSage](https://github.com/chandrasaripaka/StockSage) | Stock analysis tooling | Python | ⭐ 3 | 78 |
+| [neurodynamicbrain](https://github.com/chandrasaripaka/neurodynamicbrain) | Portable cross-agent memory brain for Claude/AI agents | — | ⭐ 25 | 18 |
+| [LLMRouter](https://github.com/chandrasaripaka/LLMRouter) | LLM request routing | TypeScript | ⭐ 2 | 21 |
+| [debt4loop](https://github.com/chandrasaripaka/debt4loop) | Full-stack web app | TypeScript | ⭐ 0 | 20 |
+| [ai-portfolio](https://github.com/chandrasaripaka/ai-portfolio) | Portfolio site | TypeScript | ⭐ 0 | 6 |
+| [netscapy](https://github.com/chandrasaripaka/netscapy) | Network keyword detector tool | Python | ⭐ 0 | 2 |
+| [angular-sample](https://github.com/chandrasaripaka/angular-sample) | Angular sample app | TypeScript | ⭐ 0 | 3 |
+| [InterviewBuddies](https://github.com/chandrasaripaka/InterviewBuddies) | Interview prep tool | Java | ⭐ 0 | 2 |
+<!-- AUTO:OPENSOURCE-TABLE:END -->
 
-<sub>Full list of 55 public repos on the [Repositories tab](https://github.com/chandrasaripaka?tab=repositories).</sub>
+<sub>Full list of 57 public repos on the [Repositories tab](https://github.com/chandrasaripaka?tab=repositories).</sub>
 
 ---
 
@@ -82,21 +89,25 @@ Private repos — details are confidential, shown here for scope and activity on
 
 ### 🔬 Deep Commit Statistics
 
-<sub>Computed 2026-08-19 from each owned <b>non-fork</b> repo's default-branch history via the GitHub GraphQL API — more accurate than the public contribution graph (which only counts commits made with a GitHub-verified email). Forks are excluded on purpose: counting their upstream history (e.g. `matsim` alone carries ~39k commits) would wildly overstate the numbers.</sub>
+<!-- AUTO:STATS-NOTE:START -->
+<sub>Computed 2026-09-26 from each owned <b>non-fork</b> repo's default-branch history via the GitHub REST API — more accurate than the public contribution graph (which only counts commits made with a GitHub-verified email). Forks are excluded on purpose: counting their upstream history would wildly overstate the numbers.</sub>
+<!-- AUTO:STATS-NOTE:END -->
 
+<!-- AUTO:STATS-TABLE:START -->
 | Metric | Value |
 |---|---|
-| Total repositories | 74 (57 public · 17 private · 39 forks) |
-| Original (non-fork) repositories | 35 |
-| **Total commits across owned repos** | **1,309** |
-| — commits in private repos | 1,128 (17 repos) |
-| — commits in public repos | 181 (18 repos) |
-| Pull requests authored | 58 (48 merged · 8 open) |
+| Total repositories | 75 (57 public · 18 private · 39 forks) |
+| Original (non-fork) repositories | 36 |
+| **Total commits across owned repos** | **1399** |
+| — commits in private repos | 1217 (18 repos) |
+| — commits in public repos | 182 (18 repos) |
+| Pull requests authored | 83 (78 merged · 2 open) |
 | Total stars earned | 34 |
 | Busiest repo by commits | `supergame-meme` — 509 commits |
-| Primary language by commit volume | TypeScript (~1,027 commits), then Python · HTML · JavaScript |
+| Primary language by code volume | Jupyter Notebook (bytes-weighted across owned non-fork repos) |
 | Top languages by repo count | TypeScript · JavaScript · Python · Java |
 | Account age | 12+ years (since March 2013) |
+<!-- AUTO:STATS-TABLE:END -->
 ---
 
 ### 📬 Connect

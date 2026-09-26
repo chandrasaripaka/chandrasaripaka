@@ -1,0 +1,47 @@
+[
+  {
+    "repo": "rppg-multimodal-clean-repo",
+    "label": "**Hygieia** (`rppg-multimodal-clean-repo`) — AI-native health OS: rPPG vitals, AI companion, mobile",
+    "stack": "Python · TypeScript · Swift/Kotlin"
+  },
+  {
+    "repo": "supergame-meme",
+    "label": "`supergame-meme`",
+    "stack": "TypeScript"
+  },
+  {
+    "repo": "kikk",
+    "label": "`kikk`",
+    "stack": "TypeScript"
+  },
+  {
+    "repo": "critico-website",
+    "label": "`critico-website`",
+    "stack": "TypeScript"
+  },
+  {
+    "repo": "my-professional-architect",
+    "label": "`my-professional-architect`",
+    "stack": "TypeScript"
+  },
+  {
+    "repo": "WorkSlackAI",
+    "label": "`WorkSlackAI`",
+    "stack": "TypeScript · JS"
+  },
+  {
+    "repo": "streamhubpro",
+    "label": "`streamhubpro`",
+    "stack": "TypeScript · Go · Rust"
+  },
+  {
+    "repo": "JiyaSite",
+    "label": "`JiyaSite`",
+    "stack": "TypeScript"
+  },
+  {
+    "repo": "entergram",
+    "label": "**Entergram** — persistent engineering memory / MCP server for AI coding agents",
+    "stack": "TypeScript · Node"
+  }
+]

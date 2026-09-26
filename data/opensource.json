@@ -1,0 +1,42 @@
+[
+  {
+    "repo": "StockSage",
+    "description": "Stock analysis tooling",
+    "stack": "Python"
+  },
+  {
+    "repo": "neurodynamicbrain",
+    "description": "Portable cross-agent memory brain for Claude/AI agents",
+    "stack": "—"
+  },
+  {
+    "repo": "LLMRouter",
+    "description": "LLM request routing",
+    "stack": "TypeScript"
+  },
+  {
+    "repo": "debt4loop",
+    "description": "Full-stack web app",
+    "stack": "TypeScript"
+  },
+  {
+    "repo": "ai-portfolio",
+    "description": "Portfolio site",
+    "stack": "TypeScript"
+  },
+  {
+    "repo": "netscapy",
+    "description": "Network keyword detector tool",
+    "stack": "Python"
+  },
+  {
+    "repo": "angular-sample",
+    "description": "Angular sample app",
+    "stack": "TypeScript"
+  },
+  {
+    "repo": "InterviewBuddies",
+    "description": "Interview prep tool",
+    "stack": "Java"
+  }
+]
