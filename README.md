@@ -45,7 +45,7 @@ Private repos — details are confidential, shown here for scope and activity on
 <!-- AUTO:FEATURED-TABLE:START -->
 | Project | Stack | Commits | Last Active |
 |---|---|---|---|
-| **Hygieia** (`rppg-multimodal-clean-repo`) — AI-native health OS: rPPG vitals, AI companion, mobile | Python · TypeScript · Swift/Kotlin | 102 | 2026-09 |
+| **Hygieia** (`rppg-multimodal-clean-repo`) — AI-native health OS: rPPG vitals, AI companion, mobile | Python · TypeScript · Swift/Kotlin | 110 | 2026-09 |
 | `supergame-meme` | TypeScript | 509 | 2026-02 |
 | `kikk` | TypeScript | 132 | 2026-05 |
 | `critico-website` | TypeScript | 135 | 2025-09 |
@@ -90,7 +90,7 @@ Private repos — details are confidential, shown here for scope and activity on
 ### 🔬 Deep Commit Statistics
 
 <!-- AUTO:STATS-NOTE:START -->
-<sub>Computed 2026-09-29 from each owned <b>non-fork</b> repo's default-branch history via the GitHub REST API — more accurate than the public contribution graph (which only counts commits made with a GitHub-verified email). Forks are excluded on purpose: counting their upstream history would wildly overstate the numbers.</sub>
+<sub>Computed 2026-09-30 from each owned <b>non-fork</b> repo's default-branch history via the GitHub REST API — more accurate than the public contribution graph (which only counts commits made with a GitHub-verified email). Forks are excluded on purpose: counting their upstream history would wildly overstate the numbers.</sub>
 <!-- AUTO:STATS-NOTE:END -->
 
 <!-- AUTO:STATS-TABLE:START -->
@@ -98,10 +98,10 @@ Private repos — details are confidential, shown here for scope and activity on
 |---|---|
 | Total repositories | 75 (57 public · 18 private · 39 forks) |
 | Original (non-fork) repositories | 36 |
-| **Total commits across owned repos** | **1408** |
-| — commits in private repos | 1220 (18 repos) |
-| — commits in public repos | 188 (18 repos) |
-| Pull requests authored | 84 (79 merged · 2 open) |
+| **Total commits across owned repos** | **1417** |
+| — commits in private repos | 1228 (18 repos) |
+| — commits in public repos | 189 (18 repos) |
+| Pull requests authored | 86 (80 merged · 3 open) |
 | Total stars earned | 34 |
 | Busiest repo by commits | `supergame-meme` — 509 commits |
 | Primary language by code volume | Jupyter Notebook (bytes-weighted across owned non-fork repos) |
