@@ -90,7 +90,7 @@ Private repos — details are confidential, shown here for scope and activity on
 ### 🔬 Deep Commit Statistics
 
 <!-- AUTO:STATS-NOTE:START -->
-<sub>Computed 2026-10-09 from each owned <b>non-fork</b> repo's default-branch history via the GitHub REST API — more accurate than the public contribution graph (which only counts commits made with a GitHub-verified email). Forks are excluded on purpose: counting their upstream history would wildly overstate the numbers.</sub>
+<sub>Computed 2026-10-10 from each owned <b>non-fork</b> repo's default-branch history via the GitHub REST API — more accurate than the public contribution graph (which only counts commits made with a GitHub-verified email). Forks are excluded on purpose: counting their upstream history would wildly overstate the numbers.</sub>
 <!-- AUTO:STATS-NOTE:END -->
 
 <!-- AUTO:STATS-TABLE:START -->
@@ -98,9 +98,9 @@ Private repos — details are confidential, shown here for scope and activity on
 |---|---|
 | Total repositories | 75 (57 public · 18 private · 39 forks) |
 | Original (non-fork) repositories | 36 |
-| **Total commits across owned repos** | **1426** |
+| **Total commits across owned repos** | **1427** |
 | — commits in private repos | 1228 (18 repos) |
-| — commits in public repos | 198 (18 repos) |
+| — commits in public repos | 199 (18 repos) |
 | Pull requests authored | 86 (80 merged · 3 open) |
 | Total stars earned | 34 |
 | Busiest repo by commits | `supergame-meme` — 509 commits |
