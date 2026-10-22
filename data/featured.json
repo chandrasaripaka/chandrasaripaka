@@ -41,6 +41,7 @@
   },
   {
     "repo": "entergram",
+    "owner": "getentergram",
     "label": "**Entergram** — persistent engineering memory / MCP server for AI coding agents",
     "stack": "TypeScript · Node"
   }

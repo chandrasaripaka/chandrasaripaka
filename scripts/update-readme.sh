@@ -12,11 +12,17 @@ README="README.md"
 commit_count() {
   # GitHub's REST API has no direct "total commits" field; the standard trick is reading the
   # last page number off the Link header of a 1-per-page commits request.
+  #
+  # Takes an optional second arg: the repo owner, for a featured repo that isn't owned by
+  # $OWNER (e.g. Entergram lives at getentergram/entergram, not chandrasaripaka/entergram --
+  # querying the wrong owner 404s and silently falls back to 0/stale via the `|| echo` guards
+  # below, which is exactly how this field went stale without ever erroring loudly).
   local repo="$1"
+  local owner="${2:-$OWNER}"
   local link
-  link="$(gh api "repos/$OWNER/$repo/commits?per_page=1" -i 2>/dev/null | grep -i '^link:' || true)"
+  link="$(gh api "repos/$owner/$repo/commits?per_page=1" -i 2>/dev/null | grep -i '^link:' || true)"
   if [ -z "$link" ]; then
-    gh api "repos/$OWNER/$repo/commits?per_page=1" --jq 'length' 2>/dev/null || echo 0
+    gh api "repos/$owner/$repo/commits?per_page=1" --jq 'length' 2>/dev/null || echo 0
     return
   fi
   echo "$link" | grep -oE 'page=[0-9]+>; rel="last"' | grep -oE '[0-9]+' || echo "?"
@@ -24,21 +30,23 @@ commit_count() {
 
 last_active() {
   local repo="$1"
-  gh api "repos/$OWNER/$repo" --jq '.pushed_at' 2>/dev/null | cut -c1-7 || echo "?"
+  local owner="${2:-$OWNER}"
+  gh api "repos/$owner/$repo" --jq '.pushed_at' 2>/dev/null | cut -c1-7 || echo "?"
 }
 
 stars() {
   local repo="$1"
-  gh api "repos/$OWNER/$repo" --jq '.stargazers_count' 2>/dev/null || echo 0
+  local owner="${2:-$OWNER}"
+  gh api "repos/$owner/$repo" --jq '.stargazers_count' 2>/dev/null || echo 0
 }
 
 echo "Building Featured Work table..."
 featured_rows=""
-while IFS=$'\t' read -r repo label stack; do
-  c="$(commit_count "$repo")"
-  d="$(last_active "$repo")"
+while IFS=$'\t' read -r repo label stack repo_owner; do
+  c="$(commit_count "$repo" "$repo_owner")"
+  d="$(last_active "$repo" "$repo_owner")"
   featured_rows+="| $label | $stack | $c | $d |"$'\n'
-done < <(jq -r '.[] | [.repo, .label, .stack] | @tsv' data/featured.json)
+done < <(jq -r '.[] | [.repo, .label, .stack, (.owner // "")] | @tsv' data/featured.json)
 
 echo "Building Open Source table..."
 os_rows=""

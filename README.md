@@ -53,7 +53,7 @@ Private repos — details are confidential, shown here for scope and activity on
 | `WorkSlackAI` | TypeScript · JS | 41 | 2025-04 |
 | `streamhubpro` | TypeScript · Go · Rust | 130 | 2026-08 |
 | `JiyaSite` | TypeScript | 21 | 2025-11 |
-| **Entergram** — persistent engineering memory / MCP server for AI coding agents | TypeScript · Node | 34 | 2026-09 |
+| **Entergram** — persistent engineering memory / MCP server for AI coding agents | TypeScript · Node | 95 | 2026-10 |
 <!-- AUTO:FEATURED-TABLE:END -->
 
 ### 🌱 Open Source
@@ -98,9 +98,9 @@ Private repos — details are confidential, shown here for scope and activity on
 |---|---|
 | Total repositories | 75 (57 public · 18 private · 39 forks) |
 | Original (non-fork) repositories | 36 |
-| **Total commits across owned repos** | **1444** |
+| **Total commits across owned repos** | **1445** |
 | — commits in private repos | 1233 (18 repos) |
-| — commits in public repos | 211 (18 repos) |
+| — commits in public repos | 212 (18 repos) |
 | Pull requests authored | 111 (104 merged · 4 open) |
 | Total stars earned | 34 |
 | Busiest repo by commits | `supergame-meme` — 509 commits |
