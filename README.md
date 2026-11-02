@@ -53,7 +53,7 @@ Private repos — details are confidential, shown here for scope and activity on
 | `WorkSlackAI` | TypeScript · JS | 41 | 2025-04 |
 | `streamhubpro` | TypeScript · Go · Rust | 130 | 2026-08 |
 | `JiyaSite` | TypeScript | 21 | 2025-11 |
-| **Entergram** — persistent engineering memory / MCP server for AI coding agents | TypeScript · Node | 145 | 2026-10 |
+| **Entergram** — persistent engineering memory / MCP server for AI coding agents | TypeScript · Node | 155 | 2026-11 |
 <!-- AUTO:FEATURED-TABLE:END -->
 
 ### 🌱 Open Source
@@ -90,7 +90,7 @@ Private repos — details are confidential, shown here for scope and activity on
 ### 🔬 Deep Commit Statistics
 
 <!-- AUTO:STATS-NOTE:START -->
-<sub>Computed 2026-11-01 from each owned <b>non-fork</b> repo's default-branch history via the GitHub REST API — more accurate than the public contribution graph (which only counts commits made with a GitHub-verified email). Forks are excluded on purpose: counting their upstream history would wildly overstate the numbers.</sub>
+<sub>Computed 2026-11-02 from each owned <b>non-fork</b> repo's default-branch history via the GitHub REST API — more accurate than the public contribution graph (which only counts commits made with a GitHub-verified email). Forks are excluded on purpose: counting their upstream history would wildly overstate the numbers.</sub>
 <!-- AUTO:STATS-NOTE:END -->
 
 <!-- AUTO:STATS-TABLE:START -->
@@ -98,10 +98,10 @@ Private repos — details are confidential, shown here for scope and activity on
 |---|---|
 | Total repositories | 75 (57 public · 18 private · 39 forks) |
 | Original (non-fork) repositories | 36 |
-| **Total commits across owned repos** | **1457** |
+| **Total commits across owned repos** | **1458** |
 | — commits in private repos | 1233 (18 repos) |
-| — commits in public repos | 224 (18 repos) |
-| Pull requests authored | 129 (124 merged · 2 open) |
+| — commits in public repos | 225 (18 repos) |
+| Pull requests authored | 135 (129 merged · 2 open) |
 | Total stars earned | 34 |
 | Busiest repo by commits | `supergame-meme` — 509 commits |
 | Primary language by code volume | Jupyter Notebook (bytes-weighted across owned non-fork repos) |
