@@ -16,7 +16,7 @@
 - 💹 Shipping side projects across fintech (**StockSage**), LLM infra (**LLMRouter**), and full-stack web products.
 - 🛠️ Comfortable across Python, TypeScript/React, Go, Rust, Swift/Kotlin (mobile), and infra/CI.
 <!-- AUTO:REPO-SUMMARY:START -->
-- 📈 75 repositories (57 public · 18 private · 39 forks), spanning 2013–present.
+- 📈 75 repositories (56 public · 19 private · 39 forks), spanning 2013–present.
 <!-- AUTO:REPO-SUMMARY:END -->
 
 ### 🧰 Tech Stack
@@ -62,7 +62,7 @@ Private repos — details are confidential, shown here for scope and activity on
 | Project | Description | Stack | Stars | Commits |
 |---|---|---|---|---|
 | [StockSage](https://github.com/chandrasaripaka/StockSage) | Stock analysis tooling | Python | ⭐ 3 | 78 |
-| [neurodynamicbrain](https://github.com/chandrasaripaka/neurodynamicbrain) | Portable cross-agent memory brain for Claude/AI agents | — | ⭐ 25 | 18 |
+| [neurodynamicbrain](https://github.com/chandrasaripaka/neurodynamicbrain) | Portable cross-agent memory brain for Claude/AI agents | — | ⭐ 1 | 18 |
 | [LLMRouter](https://github.com/chandrasaripaka/LLMRouter) | LLM request routing | TypeScript | ⭐ 2 | 21 |
 | [debt4loop](https://github.com/chandrasaripaka/debt4loop) | Full-stack web app | TypeScript | ⭐ 0 | 20 |
 | [ai-portfolio](https://github.com/chandrasaripaka/ai-portfolio) | Portfolio site | TypeScript | ⭐ 0 | 6 |
@@ -71,7 +71,7 @@ Private repos — details are confidential, shown here for scope and activity on
 | [InterviewBuddies](https://github.com/chandrasaripaka/InterviewBuddies) | Interview prep tool | Java | ⭐ 0 | 2 |
 <!-- AUTO:OPENSOURCE-TABLE:END -->
 
-<sub>Full list of 57 public repos on the [Repositories tab](https://github.com/chandrasaripaka?tab=repositories).</sub>
+<sub>Full list of 56 public repos on the [Repositories tab](https://github.com/chandrasaripaka?tab=repositories).</sub>
 
 ---
 
@@ -90,19 +90,19 @@ Private repos — details are confidential, shown here for scope and activity on
 ### 🔬 Deep Commit Statistics
 
 <!-- AUTO:STATS-NOTE:START -->
-<sub>Computed 2026-11-05 from each owned <b>non-fork</b> repo's default-branch history via the GitHub REST API — more accurate than the public contribution graph (which only counts commits made with a GitHub-verified email). Forks are excluded on purpose: counting their upstream history would wildly overstate the numbers.</sub>
+<sub>Computed 2026-11-06 from each owned <b>non-fork</b> repo's default-branch history via the GitHub REST API — more accurate than the public contribution graph (which only counts commits made with a GitHub-verified email). Forks are excluded on purpose: counting their upstream history would wildly overstate the numbers.</sub>
 <!-- AUTO:STATS-NOTE:END -->
 
 <!-- AUTO:STATS-TABLE:START -->
 | Metric | Value |
 |---|---|
-| Total repositories | 75 (57 public · 18 private · 39 forks) |
+| Total repositories | 75 (56 public · 19 private · 39 forks) |
 | Original (non-fork) repositories | 36 |
-| **Total commits across owned repos** | **1461** |
-| — commits in private repos | 1233 (18 repos) |
-| — commits in public repos | 228 (18 repos) |
-| Pull requests authored | 137 (129 merged · 4 open) |
-| Total stars earned | 34 |
+| **Total commits across owned repos** | **1462** |
+| — commits in private repos | 1251 (19 repos) |
+| — commits in public repos | 211 (17 repos) |
+| Pull requests authored | 138 (129 merged · 5 open) |
+| Total stars earned | 10 |
 | Busiest repo by commits | `supergame-meme` — 509 commits |
 | Primary language by code volume | Jupyter Notebook (bytes-weighted across owned non-fork repos) |
 | Top languages by repo count | TypeScript · JavaScript · Python · Java |
